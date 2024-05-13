@@ -1,0 +1,8 @@
+.midle{
+    text-align: center;
+    margin: 0 auto; /* Для блочных элементов */
+    display: flex;
+    justify-content: center; /* Для гибких контейнеров */
+    align-items: center; /* Для гибких контейнеров */
+  }
+  
